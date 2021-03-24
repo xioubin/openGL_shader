@@ -21,16 +21,16 @@ static const GLfloat triangle_vertices[] =
 };
 
 char* vsSource = R"glsl(
-    #version 330 core
+    #version 410 core
     layout (location = 0) in vec4 position;
     void main()
     {
-        gl_Position = position;
+        gl_Position = vec4(0.0,0.0,0.0,1.0);
     }
 )glsl";
 
 char* fsSource = R"glsl(
-    #version 330 core
+    #version 410 core
     out vec4 color;
     void main()
     {
@@ -40,7 +40,7 @@ char* fsSource = R"glsl(
 
 void My_Init()
 {
-    glClearColor(1.0f, 1.0f, 1.0f, 1.0f);
+    glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
     glewInit();
     //Initialize shaders
     GLuint vs = glCreateShader(GL_VERTEX_SHADER);

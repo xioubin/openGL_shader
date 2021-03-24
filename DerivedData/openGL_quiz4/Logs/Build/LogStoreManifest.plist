@@ -6,6 +6,754 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>002C9CD3-6913-4477-99B2-1BB26A9A3386</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>002C9CD3-6913-4477-99B2-1BB26A9A3386.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638245357.99076498</real>
+			<key>timeStoppedRecording</key>
+			<real>638245359.73869205</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>002C9CD3-6913-4477-99B2-1BB26A9A3386</string>
+		</dict>
+		<key>19F231B1-B588-4F59-9190-438ADE9AB4CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>19F231B1-B588-4F59-9190-438ADE9AB4CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638174490.06851196</real>
+			<key>timeStoppedRecording</key>
+			<real>638174491.10377395</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>19F231B1-B588-4F59-9190-438ADE9AB4CA</string>
+		</dict>
+		<key>1F2A3012-32DA-4066-8ECE-81F4124096A0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1F2A3012-32DA-4066-8ECE-81F4124096A0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638175917.305058</real>
+			<key>timeStoppedRecording</key>
+			<real>638175917.93132102</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>1F2A3012-32DA-4066-8ECE-81F4124096A0</string>
+		</dict>
+		<key>1FAFBE91-0520-496D-88A3-9CCC47715264</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1FAFBE91-0520-496D-88A3-9CCC47715264.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638245332.06699002</real>
+			<key>timeStoppedRecording</key>
+			<real>638245332.21360505</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>1FAFBE91-0520-496D-88A3-9CCC47715264</string>
+		</dict>
+		<key>31C1BB5C-6CAE-4B66-9BE2-790CE3BFDDA2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>31C1BB5C-6CAE-4B66-9BE2-790CE3BFDDA2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638174411.054443</real>
+			<key>timeStoppedRecording</key>
+			<real>638174412.11540699</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>31C1BB5C-6CAE-4B66-9BE2-790CE3BFDDA2</string>
+		</dict>
+		<key>36943CA1-9713-44C3-8EEE-8B93B05472EA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>36943CA1-9713-44C3-8EEE-8B93B05472EA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638245376.03530598</real>
+			<key>timeStoppedRecording</key>
+			<real>638245376.05887794</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>36943CA1-9713-44C3-8EEE-8B93B05472EA</string>
+		</dict>
+		<key>3B17BA2C-0D55-47B5-8C83-B23D50BA5424</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3B17BA2C-0D55-47B5-8C83-B23D50BA5424.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638174918.12885106</real>
+			<key>timeStoppedRecording</key>
+			<real>638174919.24296105</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>3B17BA2C-0D55-47B5-8C83-B23D50BA5424</string>
+		</dict>
+		<key>439A9FB2-7321-4BAC-A29E-A33EAA08DA18</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>439A9FB2-7321-4BAC-A29E-A33EAA08DA18.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638174354.020944</real>
+			<key>timeStoppedRecording</key>
+			<real>638174359.48303604</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>439A9FB2-7321-4BAC-A29E-A33EAA08DA18</string>
+		</dict>
+		<key>518A8477-2116-43AD-B45C-EA2217349BC1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>518A8477-2116-43AD-B45C-EA2217349BC1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638175083.68118203</real>
+			<key>timeStoppedRecording</key>
+			<real>638175084.81806898</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>518A8477-2116-43AD-B45C-EA2217349BC1</string>
+		</dict>
+		<key>57092000-0FE7-42BE-A959-DFB8123DF6BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57092000-0FE7-42BE-A959-DFB8123DF6BF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638245482.93108702</real>
+			<key>timeStoppedRecording</key>
+			<real>638245482.95506799</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>57092000-0FE7-42BE-A959-DFB8123DF6BF</string>
+		</dict>
+		<key>582CDA73-E282-413E-988A-9D393DDDB0B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>582CDA73-E282-413E-988A-9D393DDDB0B9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638175580.47017097</real>
+			<key>timeStoppedRecording</key>
+			<real>638175581.53297698</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>582CDA73-E282-413E-988A-9D393DDDB0B9</string>
+		</dict>
+		<key>5C0C33EE-3E31-4F3B-BA1D-990F8D72164B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5C0C33EE-3E31-4F3B-BA1D-990F8D72164B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638210437.882357</real>
+			<key>timeStoppedRecording</key>
+			<real>638210438.47919095</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>5C0C33EE-3E31-4F3B-BA1D-990F8D72164B</string>
+		</dict>
+		<key>6CA7299B-7490-44E9-8D91-57DF56AD0B0C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6CA7299B-7490-44E9-8D91-57DF56AD0B0C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638174618.91712296</real>
+			<key>timeStoppedRecording</key>
+			<real>638174620.34813595</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>6CA7299B-7490-44E9-8D91-57DF56AD0B0C</string>
+		</dict>
+		<key>722C4649-826C-4419-994F-80D2AB93BCCD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>722C4649-826C-4419-994F-80D2AB93BCCD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638245426.09204698</real>
+			<key>timeStoppedRecording</key>
+			<real>638245426.11589503</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>722C4649-826C-4419-994F-80D2AB93BCCD</string>
+		</dict>
+		<key>75C94751-F7BB-479E-8C0F-FAEEA7431E38</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75C94751-F7BB-479E-8C0F-FAEEA7431E38.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638174424.24004495</real>
+			<key>timeStoppedRecording</key>
+			<real>638174425.30368304</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>75C94751-F7BB-479E-8C0F-FAEEA7431E38</string>
+		</dict>
+		<key>7DC77351-93BE-422A-BDD0-03B663E60975</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7DC77351-93BE-422A-BDD0-03B663E60975.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638210478.288625</real>
+			<key>timeStoppedRecording</key>
+			<real>638210479.35104096</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>7DC77351-93BE-422A-BDD0-03B663E60975</string>
+		</dict>
+		<key>84F83B2A-2996-4192-8AC6-206A25DE6248</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>84F83B2A-2996-4192-8AC6-206A25DE6248.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638174475.76134205</real>
+			<key>timeStoppedRecording</key>
+			<real>638174477.03748095</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>84F83B2A-2996-4192-8AC6-206A25DE6248</string>
+		</dict>
+		<key>983425A2-EBA3-4AE0-863F-6CD2FD1A189C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>983425A2-EBA3-4AE0-863F-6CD2FD1A189C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638174632.51908398</real>
+			<key>timeStoppedRecording</key>
+			<real>638174633.50268805</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>983425A2-EBA3-4AE0-863F-6CD2FD1A189C</string>
+		</dict>
+		<key>9D56CA2E-5258-4560-8A21-7F92E0A1BE3D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9D56CA2E-5258-4560-8A21-7F92E0A1BE3D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638210419.90323198</real>
+			<key>timeStoppedRecording</key>
+			<real>638210421.309901</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>9D56CA2E-5258-4560-8A21-7F92E0A1BE3D</string>
+		</dict>
+		<key>B51704FB-10FC-49CF-AA21-239CD2B20F67</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B51704FB-10FC-49CF-AA21-239CD2B20F67.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638245492.61759603</real>
+			<key>timeStoppedRecording</key>
+			<real>638245492.64133406</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>B51704FB-10FC-49CF-AA21-239CD2B20F67</string>
+		</dict>
+		<key>BAC112ED-6CD9-4CB7-8ED8-11DC53DD6D04</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BAC112ED-6CD9-4CB7-8ED8-11DC53DD6D04.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638174972.59431899</real>
+			<key>timeStoppedRecording</key>
+			<real>638174973.66602802</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>BAC112ED-6CD9-4CB7-8ED8-11DC53DD6D04</string>
+		</dict>
+		<key>F396E5FB-1507-4155-8BBC-E26DB5D4C9E2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F396E5FB-1507-4155-8BBC-E26DB5D4C9E2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638210532.45756304</real>
+			<key>timeStoppedRecording</key>
+			<real>638210533.64232004</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>F396E5FB-1507-4155-8BBC-E26DB5D4C9E2</string>
+		</dict>
 		<key>F9303435-8D06-44D0-8566-23F42FBEFC26</key>
 		<dict>
 			<key>className</key>
@@ -39,6 +787,40 @@
 			<string>Build openGL_quiz4</string>
 			<key>uniqueIdentifier</key>
 			<string>F9303435-8D06-44D0-8566-23F42FBEFC26</string>
+		</dict>
+		<key>FF67472A-6032-4D93-92C2-43BDBE1BF61B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FF67472A-6032-4D93-92C2-43BDBE1BF61B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>openGL_quiz4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>openGL_quiz4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build openGL_quiz4</string>
+			<key>timeStartedRecording</key>
+			<real>638245409.41305995</real>
+			<key>timeStoppedRecording</key>
+			<real>638245410.39328098</real>
+			<key>title</key>
+			<string>Build openGL_quiz4</string>
+			<key>uniqueIdentifier</key>
+			<string>FF67472A-6032-4D93-92C2-43BDBE1BF61B</string>
 		</dict>
 	</dict>
 </dict>
